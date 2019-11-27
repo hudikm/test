@@ -49,7 +49,7 @@ extern "C" void PIT_IRQHandler(){
 int main(void) {
 	/* Structure of initialize PIT */
     pit_config_t pitConfig;
-
+    //POznamka
 	/*
 	 * pitConfig.enableRunInDebug = false;
 	 */
